@@ -1,5 +1,5 @@
-import { FindProductDto } from './product.model/dto/find-product.dto';
-import { ProductModel } from './product.model/product.model';
+import { FindProductDto } from './dto/find-product.dto';
+import { ProductModel } from './product.model';
 import {
   Body,
   Controller,
